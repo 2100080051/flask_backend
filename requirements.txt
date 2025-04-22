@@ -9,3 +9,10 @@ flask-cors
 openai
 requests
 gunicorn
+flask
+flask-cors
+requests
+gunicorn
+groq  # if you're using Groq for LLM
+duckduckgo_search
+
